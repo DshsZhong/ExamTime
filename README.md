@@ -12,6 +12,12 @@ Automated exam countdown billboard
 - Show current time, subjects, and remaining time (optional)
 - Shutdown automatically when the exam is finished
 
+## Screenshots
+
+
+<img src="https://i.imgur.com/O5GIuDa.png" height="400">
+<img src="https://i.imgur.com/cblmLZe.png" width="500">
+
 ## TODO in v2.0
 
 - Rewrite in Qt5 for cross-platform support
