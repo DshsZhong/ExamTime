@@ -3,9 +3,9 @@ Automated exam countdown billboard
 
 ## Usage
 
-1. Change windows display scale to 150%
-2. Enter the exam schedule
-3. Start and wait for the exam to finish :)
+1. Enter the exam schedule
+2. Change options
+2. Start and wait for the exam to finish :)
 
 ## Features
 
@@ -17,6 +17,7 @@ Automated exam countdown billboard
 
 <img src="https://i.imgur.com/O5GIuDa.png" height="400">
 <img src="https://i.imgur.com/cblmLZe.png" width="500">
+<img src="https://i.imgur.com/sD574kX.jpg" width="500">
 
 ## TODO in v2.0
 
