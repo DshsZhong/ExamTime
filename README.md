@@ -25,6 +25,6 @@ Automated exam countdown billboard
 - Custom theme feature
 - Load exam schedule form cloud
 
-## Liscense
+## License
 
-This program is liscensed under MIT Liscense
+This program is licensed under MIT Liscense
